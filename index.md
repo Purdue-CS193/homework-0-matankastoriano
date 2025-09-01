@@ -25,18 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Matan's First CS193 Homework
 
-
-List of the greatest NBA players of all time:
-
-1. Lebron James
-2. Michael Jordan
-3. Kareem Abdul Jabbar
-4. Shaquille Oneal
-
-- what the helly
-- what the helly onte
-- what the hallybron james
+- learning more about github
+- making friends
+- not having to take an exam at the end of the course
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
